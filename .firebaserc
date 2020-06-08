@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "try-my-clevertap": {
+      "hosting": {
+        "TIC-TAC-TOE": [
+          "try-my-clevertap"
+        ]
+      }
+    }
+  }
+}
